@@ -1,0 +1,7 @@
+{
+    "triggerTaskOnSave.tasks": {
+        "Generate": [
+            "main.py"
+        ]
+    }
+}
